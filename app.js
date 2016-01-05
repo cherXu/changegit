@@ -6,6 +6,7 @@
 // 'starter.controllers' is found in controllers.js
 222222222
 11111111111111111111
+33333333333
 var widoApp = angular.module('widoApp', [
     'ionic', 'ngCordova', 'pascalprecht.translate', 'ngFileUpload'
 ]);
