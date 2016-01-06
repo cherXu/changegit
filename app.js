@@ -8,7 +8,7 @@
 11111111111111111111
 33333333333
 44444444
-55555555
+
 var widoApp = angular.module('widoApp', [
     'ionic', 'ngCordova', 'pascalprecht.translate', 'ngFileUpload'
 ]);
