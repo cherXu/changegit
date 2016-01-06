@@ -12,6 +12,7 @@
 c3c3
 c4c4
 c3c3
+c4c4
 var widoApp = angular.module('widoApp', [
     'ionic', 'ngCordova', 'pascalprecht.translate', 'ngFileUpload'
 ]);
