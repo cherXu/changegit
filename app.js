@@ -20,7 +20,7 @@ var widoApp = angular.module('widoApp', [
     'ionic', 'ngCordova', 'pascalprecht.translate', 'ngFileUpload'
 ]);
 
-widoAppc5c5c5c5
+widoAppc5c5c5c5a3
     .run(function($ionicPlatform) {
         $ionicPlatform
             .ready(function() {
