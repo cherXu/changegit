@@ -15,7 +15,7 @@ c3c3
 c4c4
 a1a1
 a2a2
-conflict11
+conflict33333
 var widoApp = angular.module('widoApp', [
     'ionic', 'ngCordova', 'pascalprecht.translate', 'ngFileUpload'
 ]);
