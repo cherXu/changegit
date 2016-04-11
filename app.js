@@ -15,8 +15,8 @@ c3c3
 c4c4
 a1a1
 a2a2
-conflict33333
-7777777777777777
+
+77777
 第一次stash
 var widoApp = angular.module('widoApp', [
     'ionic', 'ngCordova', 'pascalprecht.translate', 'ngFileUpload'
